@@ -1,0 +1,16 @@
+body {
+    width:100%;
+    height: auto;
+}
+
+.logo {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.hidden {
+    display: none;
+}
+
+
+
